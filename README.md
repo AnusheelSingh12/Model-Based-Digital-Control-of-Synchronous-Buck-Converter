@@ -10,7 +10,7 @@
 
 # Overview
 
-This repository documents my Summer Research Internship carried out at the School of Electronics and Electrical Engineering, Indian Institute of Technology Guwahati.
+This repository documents my Summer Research Internship carried out at the Department of Electronics and Electrical Engineering, Indian Institute of Technology Guwahati.
 
 The internship focused on the complete workflow involved in designing, simulating, implementing, and validating a digitally controlled synchronous buck converter using the Texas Instruments C2000 real-time digital signal processor platform.
 
